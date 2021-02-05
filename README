@@ -1,10 +1,5 @@
-Bu kütüphane ile instagramda paylaşım yaparken kullanmanız gereken etiketleri buluyor.
+Bu kütüphane ile instagram paylaşımlarınızdan en çok hangi etiketlerden tıklama aldığınızı görebilirsiniz.
 
-Eklentinin hesaplama formülü oluştururken aşağıdaki udemy eğitiminden yararlanılmıştır.
-https://www.udemy.com/course/ucretsiz-instagramda-buyume-stratejileri/
+Son 50 paylaşımı baz almaktadır.
 
-Teşekkürler:
-Mutlu Demirkapı
-
-DEMO:
-https://instagram-post-tag-finder.herokuapp.com/
+instagram insights 
